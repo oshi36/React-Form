@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-form/static/css/main.35fa8146.chunk.css",
-    "main.js": "/react-form/static/js/main.5603b3c1.chunk.js",
-    "main.js.map": "/react-form/static/js/main.5603b3c1.chunk.js.map",
-    "runtime-main.js": "/react-form/static/js/runtime-main.37a289b9.js",
-    "runtime-main.js.map": "/react-form/static/js/runtime-main.37a289b9.js.map",
-    "static/js/2.c427ca26.chunk.js": "/react-form/static/js/2.c427ca26.chunk.js",
-    "static/js/2.c427ca26.chunk.js.map": "/react-form/static/js/2.c427ca26.chunk.js.map",
-    "index.html": "/react-form/index.html",
-    "precache-manifest.f8274dfe20f217bbe4f1c94d4dc604cc.js": "/react-form/precache-manifest.f8274dfe20f217bbe4f1c94d4dc604cc.js",
-    "service-worker.js": "/react-form/service-worker.js",
-    "static/css/main.35fa8146.chunk.css.map": "/react-form/static/css/main.35fa8146.chunk.css.map",
-    "static/js/2.c427ca26.chunk.js.LICENSE.txt": "/react-form/static/js/2.c427ca26.chunk.js.LICENSE.txt",
-    "static/media/image.jpg": "/react-form/static/media/image.082d5a9e.jpg"
+    "main.css": "/React-Form/static/css/main.35fa8146.chunk.css",
+    "main.js": "/React-Form/static/js/main.e594d87a.chunk.js",
+    "main.js.map": "/React-Form/static/js/main.e594d87a.chunk.js.map",
+    "runtime-main.js": "/React-Form/static/js/runtime-main.5dafdb19.js",
+    "runtime-main.js.map": "/React-Form/static/js/runtime-main.5dafdb19.js.map",
+    "static/js/2.c427ca26.chunk.js": "/React-Form/static/js/2.c427ca26.chunk.js",
+    "static/js/2.c427ca26.chunk.js.map": "/React-Form/static/js/2.c427ca26.chunk.js.map",
+    "index.html": "/React-Form/index.html",
+    "precache-manifest.bb66313de18dd4e969021a01e7287eb5.js": "/React-Form/precache-manifest.bb66313de18dd4e969021a01e7287eb5.js",
+    "service-worker.js": "/React-Form/service-worker.js",
+    "static/css/main.35fa8146.chunk.css.map": "/React-Form/static/css/main.35fa8146.chunk.css.map",
+    "static/js/2.c427ca26.chunk.js.LICENSE.txt": "/React-Form/static/js/2.c427ca26.chunk.js.LICENSE.txt",
+    "static/media/image.jpg": "/React-Form/static/media/image.082d5a9e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37a289b9.js",
+    "static/js/runtime-main.5dafdb19.js",
     "static/js/2.c427ca26.chunk.js",
     "static/css/main.35fa8146.chunk.css",
-    "static/js/main.5603b3c1.chunk.js"
+    "static/js/main.e594d87a.chunk.js"
   ]
 }
