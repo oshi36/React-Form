@@ -1,0 +1,24 @@
+
+.card .image{
+        position: relative;
+        overflow: hidden;
+        border-radius: 50%;
+      height: 450px;
+      margin-top: 80px;
+       margin-left: 300px;
+}
+
+.card .details{
+    position: relative;
+    font-size: x-large;
+    padding-top: 100px;
+    margin-top: 80px;
+    margin-left: 450px;
+}
+
+#btn1 , #btn2 {
+    display:inline-block;
+    width: 200px;
+    margin: 10px;
+    }
+    
